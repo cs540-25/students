@@ -1,6 +1,6 @@
-**netid:** akrneta  
-**ghid:** AlexanderKrneta  
-**name:** Alexander Krneta
+netid: akrneta  
+ghid: AlexanderKrneta  
+name: Alexander Krneta
 
 **Who I am:**  
 I am a 1st year PhD student in computer science.  

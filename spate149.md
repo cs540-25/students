@@ -1,6 +1,6 @@
-Smit patel <br>
-netid: spate149 <br>
-github: smitp2003 <br>
+Smit patel 
+netid: spate149
+ghub: smitp2003
 
 I am a senior undergrad majoring in computer sceince. My main focus in computer science is web devlopment, data science, 
 artifical intellegence and cybersecurity. Outside of class I enojoy Playing/watching sports, traveling, and video games.

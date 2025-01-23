@@ -1,5 +1,5 @@
 netid: ajoshi21
-github: Advait-Joshi-svg
+ghid: Advait-Joshi-svg
 Name: Advait Joshi
 
 I am a first year masters student in Computer Science. I have previously worked on generating fused PET and CT images using Generative Adversarial Network (GANs) for super-resolution and using Deep Learning to locate oncological lesions for my undergrad final-year project. 
