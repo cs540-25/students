@@ -13,6 +13,7 @@ I am familiar with the following languages, tools, and frameworks:\
 * Common Python Library
     * Pandas
     * Matplotlib
+    * NumPy
 * Git
 * HTML/CSS
 * Unity
