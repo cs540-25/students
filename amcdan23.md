@@ -36,5 +36,4 @@ Some ideas I have are:
 
 1. Implementing an LLM with the capacity for querying a knowledge-base, plus a domain-specific-language for the LLM to use external tools (such as performing arithmetic, manipulating the filesystem, etc).
 2. Logic gate / quantum circuit simulator and/or optimizer. Maybe even an HDL?
-3. A tool for automatically generating a [BDD](https://en.wikipedia.org/wiki/Binary_decision_diagram) from a boolean formula.
-4. An SSA form optimizer for a barely-higher-level-than assembly language. It would be fun to try and implement a tiny LLVM from scratch!
+3. An SSA form optimizer for a barely-higher-level-than assembly language. It would be fun to try and implement a tiny LLVM from scratch!
