@@ -1,6 +1,6 @@
-netid: scraddo6
-ghid: MaijaCraddock
-name: Maija Craddock
+netid: scraddo6 \
+ghid: MaijaCraddock \
+name: Maija Craddock \
 
 I am very interested in learning more about game development but have not had much of an opportunity to research it in an academic setting.
 I don't have an extremely strict or focused idea for what I want to research, but I think it would be interesting to see how different companies 
