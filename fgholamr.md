@@ -1,6 +1,6 @@
-netid: Fgholamr
-ghid: GitFarzin
-name: Farzin Gholamrezae
+netid: Fgholamr \
+ghid: GitFarzin \ 
+name: Farzin Gholamrezae \
 
 Who you are: First year PhD in CS with a focus in HCI
 
