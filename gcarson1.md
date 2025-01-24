@@ -1,4 +1,6 @@
-netid: gcarson1 ghid: gcarson1 name: Gabriel Carson
+netid: gcarson1 
+ghid: gcarson1 
+name: Gabriel Carson
 
 Background
 I am from Johnson City, Tennessee. My main area of interest is Cloud technologies. I have a year of internship experience in Cloud Security. Lastly, I enjoy working out, the outdoors, basketball, and movies.
