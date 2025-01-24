@@ -1,8 +1,8 @@
-NetID: Fgholamr
+NetID: Fgholamr\
 
-GHID: GitFarzin
+GHID: GitFarzin\
 
-Name: Farzin Gholamrezae
+Name: Farzin Gholamrezae\
 
 Who you are: First year PhD in CS with a focus in HCI
 
