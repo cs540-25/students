@@ -1,6 +1,6 @@
-## netid: wouyang2
-## ghid: wouyang2
-## name: Weilin Ouyang
+netid: wouyang2
+ghid: wouyang2
+name: Weilin Ouyang
 
 ### I want to focus on Application Development expecially on IOS platform. 
 I studied Machine learning and used it to develop a Phishing website detection app and implement it on an Andriod platform last semester, 
