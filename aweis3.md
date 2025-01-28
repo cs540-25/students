@@ -4,6 +4,6 @@ I am open to the type and tools of software engineering techniques used for the 
 
 netid: aweis
 
-github id: aweis3
+ghid: aweis3
 
 name: Anna Weis
