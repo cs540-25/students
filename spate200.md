@@ -7,5 +7,7 @@ Currently, I do not know which direction I would like to take for my class proje
 
 
 Netid: spate200
+
 Github id: Suneil21
+
 Name: Suneil Patel
