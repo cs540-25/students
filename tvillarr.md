@@ -1,0 +1,4 @@
+netid: tvillarr
+ghid: tmvllrrl
+name: Michael Villarreal
+My name is Michael Villarreal, and I am a 3rd year PhD student working under Dr. Santos-Villalobos. My research focuses on the intersection of medical imagery and computer vision. I hope to learn more about researching software engineering during this class. Recently, I have been learning about using images and text, through contrastive learning, to enhance image latent representations for downstream tasks such as classification. There are lots of different ways to use contrastive learning so I would be interested in researching if people have developed software to facilitate different contrastive learning techniques. Although, I am open to researching almost anything.
