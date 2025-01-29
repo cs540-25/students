@@ -14,4 +14,4 @@ In a broad sense, I expect to gain a better understanding of different architect
 I don't think I have enough experience to make a fair judgement. Modern trends or optimization methods might be interesting. 
 
 # What type of software development tool or research you'd like to work in your class project
-I haven't decided on a project yet but I am most comfortable using the python programming language. That said, I'm also trying to gain more experience with C#.
+I haven't decided on a project yet but I am most comfortable using the python programming language. That said, I'm also trying to gain more experience with C#. 
