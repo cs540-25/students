@@ -1,6 +1,6 @@
-# netid: jwill521
-# ghid: jwwildebeast
-# name: John Williams
+netid: jwill521
+ghid: jwwildebeast
+name: John Williams
 
 ---------------------------------------------------------------
 
