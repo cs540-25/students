@@ -16,5 +16,5 @@ For my class project, I am particularly interested in working on tools or method
 
 
 netid: 733120
-ghid: gelkhoda
+ghid: GasserElkhodary
 name: Gasser Elkhodary
